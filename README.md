@@ -8,7 +8,11 @@ Last updated: 11/2026
 
 These lecture slides are used in the course Einführung in die Ökonometrie (Introduction to Econometrics), which I teach at Humboldt University of Berlin. The course introduces data preparation and visualization, statistical inference, regression analysis, probability models, and time series analysis.
 
-The slides are in German and are from the summer semester 2026 course. The topic numbers correspond to Chapters 1–12 of the course textbook. The follow-on course is [Applied Econometrics](https://github.com/Ahlfeldt/Lectures-AppliedEconometrics).
+The slides are in German and are from the summer semester 2026 course. The topic numbers correspond to Chapters 1–12 of the course textbook.
+
+## Complementary curriculum
+
+The two courses form a complementary econometrics curriculum. **[Introduction to Econometrics](https://github.com/Ahlfeldt/Lectures-IntroductionToEconometrics)** (Topics 1–12) establishes the foundations of data analysis, statistical inference and regression. **[Applied Econometrics](https://github.com/Ahlfeldt/Lectures-AppliedEconometrics)** (Topics 13–25) builds on these foundations, covering prediction, machine learning and causal analysis. Together, they provide a progression from working with data to answering predictive and causal questions.
 
 ## Textbook
 
